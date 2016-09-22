@@ -2,7 +2,7 @@
 <opml version="1.0">
     <head>
         <title>Vienna Subscriptions</title>
-        <dateCreated>2016-09-06 15:12:41 -0400</dateCreated>
+        <dateCreated>2016-09-22 13:44:39 -0400</dateCreated>
     </head>
     <body>
         <outline htmlUrl="http://www.apple.com/hotnews/" xmlUrl="http://images.apple.com/main/rss/hotnews/hotnews.rss" type="rss" description="Hot News provided by Apple." text="Apple Hot News"/>
@@ -105,5 +105,10 @@
         <outline htmlUrl="https://blogs.msdn.microsoft.com/dotnet" xmlUrl="https://blogs.msdn.microsoft.com/dotnet/feed/" type="rss" description="A first-hand look from the .NET engineering teams" text=".NET Blog"/>
         <outline htmlUrl="http://developers.googleblog.com/" xmlUrl="http://feeds.feedburner.com/GDBcode" type="rss" description="" text="Google Developers Blog"/>
         <outline htmlUrl="http://rehansaeed.com" xmlUrl="http://rehansaeed.com/feed/" type="rss" description="SENIOR SOFTWARE DEVELOPER and MICROSOFT MVP" text="Muhammad Rehan Saeed"/>
+        <outline htmlUrl="http://makingoutwith.net/" xmlUrl="http://makingoutwith.net/feed.xml" type="rss" description="&amp;amp;copy; 2016 Joe Petrakovich ~ Simple from complex.
+" text="Joe Petrakovich"/>
+        <outline htmlUrl="https://stefanprodan.com//" xmlUrl="https://stefanprodan.com/feed.xml" type="rss" description="Co-Founder of Veritech Solutions. Passionate about software architecture, domain driven design and DevOps. Loves programming in .NET, JS and Go" text="Stefan Prodan"/>
+        <outline htmlUrl="http://www.deanhume.com/" xmlUrl="http://feeds.feedburner.com/DeanHumesBlog" type="rss" description="Code Tricks and Tips" text="Dean Hume&amp;apos;s Blog"/>
+        <outline htmlUrl="http://www.billboga.com/feed/rss" xmlUrl="https://www.billboga.com/feed/rss" type="rss" description="This is my description" text="Bill Boga&amp;apos;s Blog"/>
     </body>
 </opml>
